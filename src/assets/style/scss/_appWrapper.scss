@@ -1,0 +1,6 @@
+.app-wrapper {
+  @include transition(.25s);
+  position: relative;
+  background-color: #f6f6f6;
+  padding-left: 0;
+}
